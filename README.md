@@ -26,11 +26,11 @@ O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolv
 
 2.  **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado. A partir do nível de experiência selecionado, o chatbot oferecerá orientações e sugestões de aprendizado adicionais.
    
-![Foto do Nivel de Experiência Selecionado](telas_img/2.png)
+![Foto do Nivel de Experiência Selecionado](telas_img/3.png)
 
 3. **Digite sua Pergunta:** Insira sua pergunta ou comando no campo de texto e clique em "Enviar" para receber uma resposta do chatbot.
    
-![Foto do Exemplo de Pergunta ao Chat](telas_img/3.png)
+![Foto do Exemplo de Pergunta ao Chat](telas_img/2.png)
 
 ### Comece Agora
 
