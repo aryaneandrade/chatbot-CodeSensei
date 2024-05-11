@@ -28,11 +28,6 @@ O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolv
 
 O chatbot utiliza um modelo de linguagem generativa treinado especificamente para oferecer respostas precisas e úteis aos usuários. Ele é capaz de compreender uma ampla variedade de perguntas e fornecer informações relevantes sobre programação.
 
-### A Eficiência do Projeto
-
-- **Respostas Rápidas e Precisas:** Graças à integração com a IA do Google, o chatbot oferece respostas rápidas e precisas, economizando tempo e esforço dos usuários.
-  
-- **Adaptação ao Nível de Experiência:** Ao personalizar as respostas de acordo com o nível de experiência do usuário, o chatbot fornece orientações relevantes e sob medida para cada pessoa.
 
 ### Comece Agora
 
