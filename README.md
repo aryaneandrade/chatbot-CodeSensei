@@ -20,13 +20,9 @@ O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolv
 
 ### Utilização
 
-1. **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado.
+1. **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado. A partir do nível de experiência selecionado, o chatbot oferecerá orientações e sugestões de aprendizado adicionais. 
   
 2. **Digite sua Pergunta:** Insira sua pergunta ou comando no campo de texto e clique em "Enviar" para receber uma resposta do chatbot.
-
-### Como Funciona
-
-O chatbot utiliza um modelo de linguagem generativa treinado especificamente para oferecer respostas precisas e úteis aos usuários. Ele é capaz de compreender uma ampla variedade de perguntas e fornecer informações relevantes sobre programação.
 
 
 ### Comece Agora
@@ -37,12 +33,25 @@ Não importa se você está começando sua jornada de programação ou se é um 
 
 #### Instruções de Uso para Desenvolvedores
 
-Para utilizar este chatbot, siga os passos abaixo:
+Para executar o **CodeSensei Chatbot** em seu ambiente local, siga estas instruções: 
 
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter uma chave de API do Google válida e cole-a na variável `GOOGLE_API_KEY`.
-3. Execute o script Python e desfrute da experiência de interação com o CodeSensei Chatbot!
+1. Clone este repositório em sua máquina local. 
 
+2. Certifique-se de ter o Python instalado em seu sistema. 
+
+3. Crie um ambiente virtual usando o comando `python -m venv venv`. 
+
+4. Ative o ambiente virtual: 
+
+    - No Windows: `venv\Scripts\activate` 
+
+    - No macOS e Linux: `source venv/bin/activate` 
+
+5. Instale as dependências do projeto executando `pip install -r requirements.txt`. 
+
+6. Substitua `'COLE_SUA_API_KEY_AQUI'` em `GOOGLE_API_KEY` com sua chave de API do Google. 
+
+7. Execute o script `chatbot.py` usando o Python. 
 --- 
 
 Criado com ❤️ por [Aryane Andrade] - [2024]
