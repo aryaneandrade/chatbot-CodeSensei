@@ -18,12 +18,16 @@ O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolv
   
 - **Interface Gráfica Amigável:** A interface foi desenvolvida usando Tkinter, proporcionando uma experiência de usuário intuitiva e fácil de usar.
 
-### Utilização
+### Exemplo de Execução do Chatbot
 
-1. **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado. A partir do nível de experiência selecionado, o chatbot oferecerá orientações e sugestões de aprendizado adicionais. 
-  
-2. **Digite sua Pergunta:** Insira sua pergunta ou comando no campo de texto e clique em "Enviar" para receber uma resposta do chatbot.
+1.  **Tela inicial:**
+![Foto da Tela inicial](img/logo2.png)
 
+2.  **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado. A partir do nível de experiência selecionado, o chatbot oferecerá orientações e sugestões de aprendizado adicionais.
+![Foto do Nivel de Experiência Selecionado](img/logo2.png)
+
+3. **Digite sua Pergunta:** Insira sua pergunta ou comando no campo de texto e clique em "Enviar" para receber uma resposta do chatbot.
+![Foto do Exemplo de Pergunta ao Chat](img/logo2.png)
 
 ### Comece Agora
 
