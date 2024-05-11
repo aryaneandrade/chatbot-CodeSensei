@@ -50,5 +50,5 @@ Para utilizar este chatbot, siga os passos abaixo:
 
 --- 
 
-Criado com ❤️ por [Seu Nome] - [Ano]
+Criado com ❤️ por [Aryane Andrade] - [2024]
  
