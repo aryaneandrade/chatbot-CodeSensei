@@ -54,5 +54,5 @@ Para executar o **CodeSensei Chatbot** em seu ambiente local, siga estas instru�
 7. Execute o script `chatbot.py` usando o Python. 
 --- 
 
-Criado com ❤️ por [Aryane Andrade] - [2024]
+Criado por Aryane Andrade - 2024
  
