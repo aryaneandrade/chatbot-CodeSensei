@@ -32,10 +32,6 @@ O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolv
    
 ![Foto do Exemplo de Pergunta ao Chat](telas_img/2.png)
 
-### Comece Agora
-
-Não importa se você está começando sua jornada de programação ou se é um desenvolvedor experiente, o CodeSensei Chatbot está aqui para ajudar você a alcançar seus objetivos de programação. Experimente agora mesmo!
-
 --- 
 
 #### Instruções de Uso para Desenvolvedores
