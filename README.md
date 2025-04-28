@@ -2,6 +2,9 @@
 
 ![Logo do CodeSensei](img/logo2.png)
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 **CodeSensei Chatbot** é um assistente de programação desenvolvido durante a Imersão IA da Alura + Google. Utilizando Python e a API de IA do Google, oferece respostas inteligentes e contextualizadas para desenvolvedores de todos os níveis.
 
 ### Funcionalidades
@@ -20,7 +23,7 @@
 
    ![Nível de Experiência](telas_img/3.png)
 
-3. **Pergunta ao Chatbot:** Insira sua dúvida e receba uma resposta.
+3. **Pergunta ao Chatbot:** Insira sua dúvida e receba uma resposta personalizada para seu nível. 
 
    ![Pergunta ao Chatbot](telas_img/2.png)
 
