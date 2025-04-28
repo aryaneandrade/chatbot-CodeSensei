@@ -1,61 +1,51 @@
-### CodeSensei Chatbot
-
----
+# CodeSensei Chatbot
 
 ![Logo do CodeSensei](img/logo2.png)
 
-Olá, bem-vindo ao CodeSensei Chatbot! Este é um projeto desenvolvido durante a Imersão IA da Alura + Google, onde aprendi a criar um chatbot usando Python e integrando-o com a API de IA do Google.
+**CodeSensei Chatbot** é um assistente de programação desenvolvido durante a Imersão IA da Alura + Google. Utilizando Python e a API de IA do Google, oferece respostas inteligentes e contextualizadas para desenvolvedores de todos os níveis.
 
-### Sobre o Projeto
+### Funcionalidades
 
-O CodeSensei Chatbot é um assistente de programação que visa ajudar desenvolvedores de todos os níveis de experiência a obterem respostas para suas dúvidas e orientações sobre tópicos relacionados à programação.
+- **Assistência Personalizada:** Respostas ajustadas ao nível de experiência do usuário (iniciante, intermediário ou avançado).
+- **Integração com IA do Google:** Respostas inteligentes via API do Google.
+- **Interface Gráfica com Tkinter:** Experiência de usuário intuitiva.
 
-### Funcionalidades Principais
+### Exemplo de Execução
 
-- **Assistência Personalizada:** O chatbot oferece assistência personalizada de acordo com o nível de experiência do usuário, fornecendo dicas e recomendações relevantes.
-  
-- **Integração com IA do Google:** Utiliza a poderosa API de IA do Google para responder às perguntas dos usuários de forma inteligente e contextualizada.
-  
-- **Interface Gráfica Amigável:** A interface foi desenvolvida usando Tkinter, proporcionando uma experiência de usuário intuitiva e fácil de usar.
+1. **Tela Inicial:**
 
-### Exemplo de Execução do Chatbot
+   ![Tela inicial](telas_img/1.png)
 
-1.  **Tela inicial:**
+2. **Seleção de Nível de Experiência:** Escolha entre iniciante, intermediário ou avançado.
 
-![Foto da Tela inicial](telas_img/1.png)
+   ![Nível de Experiência](telas_img/3.png)
 
-2.  **Selecione seu Nível de Experiência:** Escolha entre os níveis de iniciante, intermediário ou avançado. A partir do nível de experiência selecionado, o chatbot oferecerá orientações e sugestões de aprendizado adicionais.
-   
-![Foto do Nivel de Experiência Selecionado](telas_img/3.png)
+3. **Pergunta ao Chatbot:** Insira sua dúvida e receba uma resposta.
 
-3. **Digite sua Pergunta:** Insira sua pergunta ou comando no campo de texto e clique em "Enviar" para receber uma resposta do chatbot.
-   
-![Foto do Exemplo de Pergunta ao Chat](telas_img/2.png)
+   ![Pergunta ao Chatbot](telas_img/2.png)
 
---- 
+---
 
-#### Instruções de Uso para Desenvolvedores
+### Instruções de Uso
 
-Para executar o **CodeSensei Chatbot** em seu ambiente local, siga estas instruções: 
+1. Clone este repositório.
+2. Instale o Python e crie um ambiente virtual:
+    ```bash
+    python -m venv venv
+    ```
+3. Ative o ambiente:
+    - Windows: `venv\Scripts\activate`
+    - macOS/Linux: `source venv/bin/activate`
+4. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
+5. Substitua `'COLE_SUA_API_KEY_AQUI'` no arquivo `chatbot.py` pela sua chave de API do Google.
+6. Execute o script:
+    ```bash
+    python chatbot.py
+    ```
 
-1. Clone este repositório em sua máquina local. 
-
-2. Certifique-se de ter o Python instalado em seu sistema. 
-
-3. Crie um ambiente virtual usando o comando `python -m venv venv`. 
-
-4. Ative o ambiente virtual: 
-
-    - No Windows: `venv\Scripts\activate` 
-
-    - No macOS e Linux: `source venv/bin/activate` 
-
-5. Instale as dependências do projeto executando `pip install -r requirements.txt`. 
-
-6. Substitua `'COLE_SUA_API_KEY_AQUI'` em `GOOGLE_API_KEY` com sua chave de API do Google. 
-
-7. Execute o script `chatbot.py` usando o Python. 
---- 
+---
 
 Criado por Aryane Andrade - 2024
- 
